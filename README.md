@@ -2,7 +2,7 @@
 Discord bot for the Epic Games game of Paragon. It pulls player statistics from agora.gg currently.
 
 Requirements:
-- discord.py
+- discord.py (https://github.com/Rapptz/discord.py)
 - Python 3.6 or greater
 
 Commands:
